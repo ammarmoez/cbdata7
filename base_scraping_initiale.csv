@@ -1,0 +1,17 @@
+Website, Type, Url, Traffic Alexa, Online since
+Bloomberg, Generaliste, https://www.bloomberg.com/crypto, 502
+CoinDesk, Specialiste, https://www.coindesk.com, 5288
+CoinTelegraph, Specialiste, https://cointelegraph.com, 3590
+BitcoinMagazine, Specialiste, https://bitcoinmagazine.com, 66005
+CCN, Specialiste, https://www.ccn.com, 3303
+Nulltx, Specialiste, https://nulltx.com, 48189
+NewsBTC, Specialiste, https://www.newsbtc.com, 25781
+Cryptovest, Specialiste, https://cryptovest.com, 76757
+CoinHooked, Specialiste, https://coinhooked.com, 2213764
+EthereumWorldNews, Specialiste, https://ethereumworldnews.com, 27990
+Reddit, Social, https://www.reddit.com/R/Bitcoin, 17
+
+<hr>
+# Ceci est notre base de depart pour retenir les sites que nous allons scraper
+# Ce dataframe comporte 5 variables et 11 observations
+# Certaines variables moins importantes apportent simplement des donnees numeriques a des fins de modelisation
