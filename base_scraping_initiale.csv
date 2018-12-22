@@ -10,7 +10,3 @@ Id, Website, Type, Url, Traffic Alexa, Online since
 9, NewsBTC, Specialiste, https://www.newsbtc.com, 25781
 10, Nulltx, Specialiste, https://nulltx.com, 48189
 11, Reddit, Social, https://www.reddit.com/R/Bitcoin, 17
-
-<hr>
-# Ceci est notre base de depart pour retenir les sites que nous allons scraper
-# Ce dataframe comporte 5 variables et 11 observations
