@@ -1,2 +1,3 @@
 # CBDATA7
-Isaac w/2 others at Fitec
+Projet fil rouge CBDAT7, Dec.2018 - Mar.2019
+Y participent: Isaac, Moez, Alexa
