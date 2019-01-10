@@ -1,2 +1,3 @@
 # Certaines variables de scraping_sample.csv apportent des données numériques, simplement à des fins de data visualization.
 # scraping.csv (fichier final) ne sera pas partagé sur GitHub pour des raisons de confidentialité liées au projet.
+# Ignorez GitHub si vous souhaitez faire du Continuous Integration / Continuous Delivery. Rdv sur GitLab.
